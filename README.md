@@ -1,4 +1,5 @@
 # Systems Engineer Task
+## Background
 You are tasked with generating a set of design documents for a Software as a Medical Device. You are joining the project at the same time as a new team member for Regulatory Affairs. The new Regulatory Affairs team member has identified previously some parts of the [TGA's Essential Principles – Schedule 1 Essential Principles of Therapeutic Goods (Medical Devices) Regulations 2002](https://classic.austlii.edu.au/au/legis/cth/consol_reg/tgdr2002400/sch1.html) were assessed as not applicable but is now assessed as required. The particular clause is Section 13.1 information to be provided with medical devices - General. 
 
 _Information to be provided with medical devices – general
@@ -20,10 +21,8 @@ _Information to be provided with medical devices – general
 The Regulatory Affairs team member explains that this clause is commonly implemented by an About Page in the software. She informs you an Instructions For Use is also required but this has already been captured by other software-system level requirements.
 
 ## Task details
-	1. Write a set of verifiable software-system level requirements mapping to ensure the TGA's Essential Principle's Section 13.1 is addressed by the design. The aim is to write requirements in a more engineering-friendly format and follow other best practices about requirements. 
-
-	2. Write verification test case(s) against your newly written software-system level requirements. The aim is to write the test cases in a review friendly manner, following best practices about verification testing. 
-
-	3. Below is a poorly written requirement. Identify issues and rewrite it following best practices. "The software should display manufacturer details somewhere in the application so users can see who made it."
+1. Write a set of verifiable software-system level requirements mapping to ensure the TGA's Essential Principle's Section 13.1 is addressed by the design. The aim is to write requirements in a more engineering-friendly format and follow other best practices about requirements. 
+2. Write verification test case(s) against your newly written software-system level requirements. The aim is to write the test cases in a review friendly manner, following best practices about verification testing. 
+3. Below is a poorly written requirement. Identify issues and rewrite it following best practices. "The software should display manufacturer details somewhere in the application so users can see who made it."
 
 Note, you will be evaluated on your presentation of your work. The evaluation will cover the clarity, structure, testability and traceability of the task.
